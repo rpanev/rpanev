@@ -15,8 +15,7 @@ I automate and build reliable and scalable infrastructures with **AWS**, **Azure
 ### 💡 Automation Lover  
 Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-on practice, my primary goal is to automate everything possible by leveraging my skills in Bash, Python, and Go. I'm an expert in Infrastructure as Code with Terraform and Configuration Management using Ansible. I design and maintain robust and efficient CI/CD pipelines with GitLab CI/CD, Jenkins, and Bitbucket. I truly believe that automation is the key to efficient, reliable, and fast IT operations.
 
-> _"Secure. Automate. Optimize. Then Print Something Cool."_ ⚙️🎨🖨️
-
+> _"Secure. Automate. Optimize.
 ---
 
 ## 🌟 Find Me Online
