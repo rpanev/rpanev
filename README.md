@@ -1,4 +1,4 @@
-<!-- Banner or profile image (можеш да добавиш по-късно) -->
+<!-- Banner or profile image -->
 <!-- ![Header](./header.png) -->
 
 # 🚀 About Me
@@ -18,17 +18,6 @@ Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-
 > _"Secure. Automate. Optimize.
 ---
 
-## 🌟 Find Me Online
-
-📌 **Connect & Collaborate:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rpanev/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?logo=github)](https://github.com/rpanev)  
-[![GitLab](https://img.shields.io/badge/GitLab-Follow-informational?logo=gitlab)](https://gitlab.com/users/panev/projects)
-
-
----
-
 ## 📂 Featured DevOps Projects
 
 🔹 
@@ -42,9 +31,18 @@ Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-
 
 ## ⚡ Tech Stack & Tools I Use
 
-<!-- <img src="https://your-image-link-or-local-path.png" alt="Tech stack image" /> -->
+| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation | 📜 Scripting & Languages |
+|----------------------|------------------|-------------------------------|------------------------|---------------------|--------------------------|
+| `AWS` `Azure` `GCP` `Hetzner` `Proxmox` | `GitLab CI` `Bitbucket Pipelines` `Jenkins` | `Docker` `Swarm` `Kubernetes` `Helm` | `Prometheus` `Grafana` `SonarQube` `DataDog` `Zabbix` | `Terraform` `Ansible` | `Bash` `Python` `Go` |
 
-| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation |
-|----------------------|------------------|-------------------------------|------------------------|---------------------|
-| `AWS` `Azure`        | `GitLab CI` `Bitbuket` `Jenkins` | `Docker` `Kubernetes` `Helm` | `Prometheus` `Grafana` `SonarQube` `DataDog` `Zabbix` | `Terraform` `Ansible` |
 
+## 🌟 Find Me Online
+
+📌 **Connect & Collaborate:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rpanev/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?logo=github)](https://github.com/rpanev)  
+[![GitLab](https://img.shields.io/badge/GitLab-Follow-informational?logo=gitlab)](https://gitlab.com/users/panev/projects)
+
+
+---
