@@ -19,9 +19,8 @@ Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-
 
 ## 📂 Featured DevOps Projects
 
-🔹 
-🔹 
-🔹 
+🔹 Soon
+---
 
 🔥 [Explore all repositories in GitHub →](https://github.com/rpanev?tab=repositories)
 🔥 [Explore all repositories in GitLab →](https://gitlab.com/users/panev/projects)
