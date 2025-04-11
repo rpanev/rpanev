@@ -7,7 +7,7 @@
 
 ---
 
-I'm **[Radoslav Panev]**, a dedicated **DevOps Engineer** on a mission to automate infrastructure and make teams' lives easier through efficient and secure solutions.
+I'm **Radoslav Panev**, a dedicated **DevOps Engineer** on a mission to automate infrastructure and make teams' lives easier through efficient and secure solutions.
 
 ### 🔧 Cloud & DevOps Enthusiast  
 I automate and build reliable and scalable infrastructures with **AWS**, **Azure**, **Kubernetes**, **Terraform** and more.
