@@ -38,9 +38,7 @@ Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-
 
 📌 **Connect & Collaborate:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rpanev/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?logo=github)](https://github.com/rpanev)  
-[![GitLab](https://img.shields.io/badge/GitLab-Follow-informational?logo=gitlab)](https://gitlab.com/users/panev/projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rpanev/)  | [![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?logo=github)](https://github.com/rpanev)  | [![GitLab](https://img.shields.io/badge/GitLab-Follow-informational?logo=gitlab)](https://gitlab.com/users/panev/projects)
 
 
 ---
