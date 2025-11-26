@@ -31,35 +31,36 @@ Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-
 <p align="center">
 
   <!-- OS -->
-  <img src="https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-User-000000?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
 
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-Cloud-D50C2D?logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-Virtualization-E57000?logo=proxmox&logoColor=white" />
+  <!-- Cloud & Infra -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white" />
 
   <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/GitLab%20CI-Pipelines-FC6D26?logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-Pipelines-0052CC?logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 
   <!-- Containers -->
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-Packages-0F1689?logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
 
-  <!-- Langs -->
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-Services-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
 
 </p>
+
 
 
 ## 🌟 Find Me Online
