@@ -28,33 +28,38 @@ Experienced DevOps Engineer and a devoted Automation Lover. With years of hands-
 ---
 
 ## ⚡ Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-User-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/GitLab%20CI-Pipelines-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-Packages-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-Services-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<p>
+<p align="center">
 
+  <!-- OS -->
+  <img src="https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-User-000000?logo=apple&logoColor=white" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hetzner-Cloud-D50C2D?logo=hetzner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-Virtualization-E57000?logo=proxmox&logoColor=white" />
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/GitLab%20CI-Pipelines-FC6D26?logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-Pipelines-0052CC?logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?logo=jenkins&logoColor=white" />
+
+  <!-- Containers -->
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-Packages-0F1689?logo=helm&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white" />
+
+  <!-- Langs -->
+  <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-Services-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white" />
+
+</p>
 
 
 ## 🌟 Find Me Online
